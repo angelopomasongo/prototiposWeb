@@ -1,0 +1,29 @@
+/*Esto es un comentario*/
+header{
+    text-align: center;
+    background-color: lawngreen; /*este es un color de fondo*/
+}
+header:hover{
+    background-color: black;
+}
+main{
+    background-color: antiquewhite;        
+}
+main:hover{
+    background-color: blueviolet;
+}
+footer{
+    background-color: blue;
+}
+footer:hover{
+    background-color: chocolate;
+}
+h1{
+    color:blue;
+}
+h2{
+    color:red;
+}
+p{
+    color:cornflowerblue;
+}
